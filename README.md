@@ -1,4 +1,4 @@
-<img src="https://businan.github.io/image/image.png">
+<img src="https://businan.github.io/image/image.png" border-radius=10>
  
 ### Hi there 👋, I'm Burak Sinan YORULMAZ. I'm trying to be Full Stack Web Developer. Welcome to my gh page! <br>
  
