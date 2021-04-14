@@ -7,7 +7,7 @@
  
 🌱 *Currently Learning* : JavaScript <br>
 
-👯 Also I am trying to learn : **React React Native Node.js**
+👯 Also I am trying to learn : **React React-Native Node.js**
 
 🤔 *Looking for help* : I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 
