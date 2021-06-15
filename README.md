@@ -5,9 +5,9 @@
 🔭 *Currently* :  I am learning new information about coding while taking my Dutch language course. Also I know Python... <br>
 
  
-🌱 *Currently Learning* : JavaScript <br>
+🌱 *Currently Learning* : Typescript <br>
 
-👯 Also I am trying to learn : **React React-Native Node.js**
+👯 Also I am trying to learn : **NextJS**
 
 🤔 *Looking for help* : I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 
