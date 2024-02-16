@@ -5,7 +5,7 @@
 🔭 *Currently* :  I am learning new information about coding while taking my Dutch language course. Also I know React... <br>
 
  
-🌱 *Currently Learning* : Java <br>
+🌱 *Currently Learning* : **Java** <br>
 
 👯 Also I am trying to learn : **NextJS**
 
